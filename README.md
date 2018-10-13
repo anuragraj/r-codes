@@ -3,5 +3,5 @@
 1. String Manipulation
 2. Matrices
 3. Plots
-  * Bubble Plot
-  * Random Walk
+   - Bubble Plot
+   - Random Walk
